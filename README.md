@@ -1,4 +1,4 @@
-# ASE-220-Midterm
+# ASE-220-A8
 Assignment 8: finalize changes to the front-end
 
 Website: https://giordullo.github.io/ASE-220-A8/ASE220-A8/index.html
