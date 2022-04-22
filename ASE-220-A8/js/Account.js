@@ -395,7 +395,7 @@ function Upload()
             }).then(() => 
             {
                 console.log("Uploaded");
-                location.href="index.html";
+                location.href="../index.html";
             });
         });
 }
